@@ -4,7 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * SpringBoot 我的项目学习分支2
+ * SpringBoot 项目学习-第二次提交
  * @author Administrator
  *
  */
