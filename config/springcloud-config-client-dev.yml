@@ -1,3 +1,3 @@
-spring:
-  config:
-    name: test config server
+config:
+  client:
+    name: test config client
