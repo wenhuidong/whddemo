@@ -1,3 +1,3 @@
 spring:
-  application:
+  config:
     name: test config server
